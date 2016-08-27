@@ -1,6 +1,6 @@
-|CircleCI|_ |Coveralls|_ |Python35|_ |License|_ |Release|_
+|CircleCI|_ |Coveralls|_ |Python35|_ |License|_ |Release|_ |PyPI|_ |DockerImage|_
 
-.. |CircleCI| image:: https://circleci.com/gh/liontoolkit/liontoolkit.svg?style=shield
+.. |CircleCI| image:: https://img.shields.io/circleci/project/liontoolkit/liontoolkit.svg
 .. _CircleCI: https://circleci.com/gh/liontoolkit/liontoolkit
 
 .. |Coveralls| image:: https://coveralls.io/repos/github/liontoolkit/liontoolkit/badge.svg
@@ -14,6 +14,12 @@
 
 .. |Release| image:: https://img.shields.io/github/release/liontoolkit/liontoolkit.svg
 .. _Release: https://github.com/liontoolkit/liontoolkit/releases/latest
+
+.. |PyPI| image:: https://img.shields.io/pypi/v/liontoolkit.svg
+.. _PyPI: https://pypi.python.org/pypi/liontoolkit
+
+.. |DockerImage| image:: https://img.shields.io/docker/automated/liontoolkit/liontoolkit.svg
+.. _DockerImage: https://hub.docker.com/r/liontoolkit/liontoolkit
 
 LIONtoolkit
 -----------
