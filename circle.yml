@@ -1,1 +1,24 @@
+## Customize the test machine
+machine:
 
+  # Version of python to use
+  python:
+    version:
+      3.5.2
+
+## Customize dependencies
+dependencies:
+  pre:
+    - pip install -r requirements-test.txt
+
+## Customize test commands
+test:
+  override:
+    - nosetests --with-coverage --with-xunit --cover-package=liontoolkit --cover-inclusive --cover-xml --xunit-file=$CIRCLE_TEST_REPORTS/nosetests.xml
+  post:
+    - coveralls
+
+## Custom notifications
+notify:
+  webhooks:
+    - url: https://coveralls.io/webhook?repo_token=$COVERALLS_REPO_TOKEN
