@@ -9,6 +9,7 @@ machine:
 ## Customize dependencies
 dependencies:
   pre:
+    - pip install coveralls
     - pip install -r requirements-test.txt
 
 ## Customize test commands
