@@ -1,5 +1,5 @@
-Core contributors
------------------
+Project maintainers - Copyright holders
+---------------------------------------
 - Andrea Mariello (andrea.mariello@unitn.it - http://lion.disi.unitn.it/~mariello)
 - Marco Zugliani (marco.zugliani@studenti.unitn.it)
 - Mauro Brunato (mauro.brunato@unitn.it - http://lion.disi.unitn.it/~brunato)
