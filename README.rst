@@ -28,7 +28,7 @@ LIONtoolkit is a web application that allows data science enthusiasts
 to create and run experiments involving machine learning and optimization
 techniques via a simple browser-based drag-and-drop interface.
 
-It is an idea and is currently maintained by the people at `LIONlab <http://lionlab.org/>`_, University of Trento - Italy.
+It is an idea and is currently maintained by the people at `LIONlab <http://lionlab.org/>`_, University of Trento - Italy, and it is distributed under the terms and conditions of the `Mozilla Public License, v. 2.0 <https://mozilla.org/MPL/2.0/>`_.
 
 Dependencies
 ------------
