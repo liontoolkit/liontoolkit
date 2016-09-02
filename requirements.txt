@@ -1,1 +1,7 @@
-
+numpy
+pandas
+matplotlib
+flask
+flask_socketio
+gunicorn
+eventlet
